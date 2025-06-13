@@ -11,6 +11,7 @@
 
 ### Automatic Updates
 To enable automatic dependency updates with Dependabot:
+
 *** Ensure that either "Dependabot security updates" or "Dependabot version updates" is enabled. 
    - "Dependabot security updates" will automatically update dependencies with known vulnerabilities.
    - "Dependabot version updates" will automatically update dependencies to the latest versions.
